@@ -29,7 +29,7 @@
    - «Деактивировать режим программирования» — выключить режим
    - «Возврат к исходному состоянию» — управление всеми бэкапами и откат
 
-## ⚠️ Важно
+## ⚠️ Важно! ⚠️
 
 Инструмент изменяет системный реестр Windows.  
 Используйте на свой страх и риск.  
@@ -69,7 +69,7 @@ This tool allows you to safely activate and deactivate programming mode in BMW I
    - "Deactivate programming mode" — turn off the mode
 - "Return to the initial state" — manage all backups and rollback
 
-## ⚠️ Important
+## ⚠️ Important! ⚠️
 
 The tool modifies the Windows system registry.  
 Use it at your own risk.  
